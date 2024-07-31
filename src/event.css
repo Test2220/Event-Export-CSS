@@ -1,0 +1,14 @@
+/*# sourceMappingURL=event.css.map */
+
+* {
+    font-family: sans-serif;
+}
+.event-info {
+    font-size: 1.35rem;
+}
+.event-stats {
+    font-size: 1rem;
+}
+.description {
+    font-size: 1rem;
+}
